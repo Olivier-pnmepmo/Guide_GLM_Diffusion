@@ -1,9 +1,0 @@
-# Autoriser les requêtes Cross-Origin
-<IfModule mod_headers.c>
-    Header set Access-Control-Allow-Origin "*"
-</IfModule>
-
-# Autoriser tous les types de méthodes HTTP si nécessaire
-<IfModule mod_headers.c>
-    Header set Access-Control-Allow-Methods "GET, POST, OPTIONS, DELETE, PUT"
-</IfModule>
