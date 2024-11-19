@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "ZIG_2021",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Zone": "Saint Valery" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.620593881016164, 50.192062101132493 ], [ 1.629674849763661, 50.190438797946065 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Ault" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.445586032832958, 50.106178480677343 ], [ 1.440442049993563, 50.101643672476911 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Mers les Bains" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.376612391443979, 50.066487508590171 ], [ 1.382823252509594, 50.071666731685774 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Le Crotoy" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.631374979926125, 50.212463584400794 ], [ 1.623401182663128, 50.212165564992119 ], [ 1.613770321068421, 50.218851985069108 ], [ 1.61071835999761, 50.223207862474517 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Quend Plage" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.54271786330732, 50.32290277989258 ], [ 1.543038310255772, 50.323821098248459 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Fort Mahon" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.546962572172974, 50.33567781102726 ], [ 1.54737473525053, 50.341221996405118 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Berck" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.553639633830117, 50.400847166248134 ], [ 1.55577485089131, 50.405509605799168 ], [ 1.558707646162688, 50.411605159043752 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Stella" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.569962695600831, 50.475246510501869 ], [ 1.570387592180998, 50.481912951438346 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Touquet" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.575688080042617, 50.528282144199174 ], [ 1.573356170376698, 50.516216331421674 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Hardelot" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.574337900614566, 50.627643778920181 ], [ 1.573728088835701, 50.639356710135203 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Le Portel" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.566334833508828, 50.706277369296089 ], [ 1.567628547025613, 50.709217149888055 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Boulogne sur Mer" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.589027649275937, 50.731325185424232 ], [ 1.591719163230334, 50.739503151391759 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Wimereux" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.603631822805987, 50.76353078134953 ], [ 1.60499459716358, 50.770403816704743 ] ] } },
+{ "type": "Feature", "properties": { "Zone": "Ambleteuse" }, "geometry": { "type": "LineString", "coordinates": [ [ 1.599180647739838, 50.806006908730375 ], [ 1.597405443465802, 50.80979911057527 ] ] } }
+]
+}
